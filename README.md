@@ -1,1 +1,2 @@
 # Datathon---October-2026
+#This database holds all the models, improvements and tests I ran for the MLDA NTU Datathon. I started off with the ridge regression baseline, and then upon establishing that for certain categories of the data linear regression does not give accurate results, I switched to non-linear regressions and explored CatBoost and LightGBM models. I tried blended models to determine best performance, and finally used the best performing model and implemented improvements through Optuna tuning.  
